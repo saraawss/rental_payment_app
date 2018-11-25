@@ -1,6 +1,6 @@
 # Rental Payment App README
 
-A Lease application that uses a [ReactJS] frontend to capture and manage lease payments.This app make the tenants
+An Lease application that uses a [ReactJS] frontend to capture and manage lease payments.This app make the tenants
 to see a list of their past and upcoming rent payments. 
 
 ## Features
